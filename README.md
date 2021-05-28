@@ -2,7 +2,7 @@
 A replica of info.cern.ch
 
 ## General Info
-We recreated the first [website](http://info.cern.ch/hypertext/WWW/TheProject.html)
+We recreated the first [website](http://info.cern.ch/hypertext/WWW/TheProject.html),
  with slight stylistic adjustments. However, due to the hundreds of links, this replica
  only descends one level, including pages for the following categories and several others.
 
@@ -17,7 +17,7 @@ We recreated the first [website](http://info.cern.ch/hypertext/WWW/TheProject.ht
 - Bibliography
 
 # Problem and Solution
-The goal of the project was to replicate a portion of the first website, info.cern.ch/hypertext/WWW/
+The goal of the project was to replicate a portion of the first website, info.cern.ch/hypertext/WWW/ .
 
 We accomplished this by recreating the index page and all 23 pages linked therefrom. We split the work
 by assigning David 14 of these pages as well as the added About Us page, and Casey the remaining 9 pages
@@ -38,7 +38,7 @@ Project was created with:
 * HTML
 * CSS
 * PhpStorm
-* GitHub
+* GitHub (obviously)
 * Mozilla Developer [website](https://developer.mozilla.org/en-US/docs/Web/HTML/) as a reference for HTML and CSS
 
 ## Sources
